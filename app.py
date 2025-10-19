@@ -31,7 +31,7 @@ st.markdown("<p style='text-align: center; font-size:16px;'>Search your Unique I
 # -------------------------------
 # Input for UniqueID
 # -------------------------------
-unique_id = st.text_input("🔑 Enter Your Unique ID")
+unique_id = st.text_input("🔑 Enter Your Unique ID", value="1115619330")
 
 # -------------------------------
 # Search Button
